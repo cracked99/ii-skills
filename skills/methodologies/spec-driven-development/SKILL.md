@@ -1,7 +1,10 @@
 ---
 name: spec-driven-development
 description: Apply Spec-Driven Development (SDD) methodology for requirements-first software development. Use when defining requirements, creating technical specifications, or ensuring traceability from requirements to implementation.
-allowed-tools: ["Bash", "Read", "str_replace_based_edit_tool"]
+allowed-tools:
+  - Bash
+  - Read
+  - str_replace_based_edit_tool
 ---
 
 # Spec-Driven Development (SDD)

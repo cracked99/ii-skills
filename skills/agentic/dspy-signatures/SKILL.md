@@ -1,7 +1,10 @@
 ---
 name: dspy-signatures
 description: Design and implement DSPy-style signatures for structured AI agent I/O. Use when defining agent contracts, implementing typed predictions, creating reusable prompt templates, or building systems with automated prompt optimization.
-allowed-tools: ["Bash", "Read", "str_replace_based_edit_tool"]
+allowed-tools:
+  - Bash
+  - Read
+  - str_replace_based_edit_tool
 ---
 
 # DSPy Signatures

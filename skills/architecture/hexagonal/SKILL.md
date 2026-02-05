@@ -1,7 +1,10 @@
 ---
 name: hexagonal-architecture
 description: Design systems using Hexagonal Architecture (Ports & Adapters) pattern. Use when building modular applications, designing clean boundaries between core logic and external services, or implementing dependency inversion for testability and flexibility.
-allowed-tools: ["Bash", "Read", "str_replace_based_edit_tool"]
+allowed-tools:
+  - Bash
+  - Read
+  - str_replace_based_edit_tool
 ---
 
 # Hexagonal Architecture (Ports & Adapters)
