@@ -1,10 +1,6 @@
 ---
 name: textgrad-correction
 description: Implement TextGrad-style self-correction loops for AI agents. Use when building agents that need to critique and refine their outputs, implementing iterative improvement cycles, or creating quality-assured AI workflows with automated feedback.
-allowed-tools:
-  - Bash
-  - Read
-  - str_replace_based_edit_tool
 ---
 
 # TextGrad Self-Correction

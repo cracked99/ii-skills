@@ -1,10 +1,6 @@
 ---
 name: claim-first-workflow
 description: Implement claim-based task delegation for multi-agent systems. Use when designing agent coordination, task distribution, or competitive resource allocation.
-allowed-tools:
-  - Bash
-  - Read
-  - str_replace_based_edit_tool
 ---
 
 # Claim-First Workflow

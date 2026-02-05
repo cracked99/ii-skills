@@ -1,10 +1,6 @@
 ---
 name: context-engineering
 description: Manage LLM context efficiently for optimal performance. Use when working with large codebases, managing token budgets, or optimizing information retrieval for AI agents.
-allowed-tools:
-  - Bash
-  - Read
-  - str_replace_based_edit_tool
 ---
 
 # Context Engineering

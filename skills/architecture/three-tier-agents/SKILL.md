@@ -1,10 +1,6 @@
 ---
 name: three-tier-agents
 description: Design multi-agent systems using Three-Tier Agent Hierarchy. Use when building orchestrated agent systems, implementing delegation patterns, or creating hierarchical task distribution with Orchestrator → Project Manager → Specialist structure.
-allowed-tools:
-  - Bash
-  - Read
-  - str_replace_based_edit_tool
 ---
 
 # Three-Tier Agent Hierarchy

@@ -1,10 +1,6 @@
 ---
 name: tdd-implementation
 description: Apply Test-Driven Development methodology for implementing features with high quality. Use when implementing new features, fixing bugs, or refactoring code with test coverage requirements.
-allowed-tools:
-  - Bash
-  - Read
-  - str_replace_based_edit_tool
 ---
 
 # Test-Driven Development (TDD)

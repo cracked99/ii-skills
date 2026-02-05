@@ -1,10 +1,6 @@
 ---
 name: slate-methodology
 description: Apply the S.L.A.T.E. development methodology for structured software engineering. Use when planning complex features, establishing development workflows, or ensuring engineering excellence.
-allowed-tools:
-  - Bash
-  - Read
-  - str_replace_based_edit_tool
 ---
 
 # S.L.A.T.E. Development Methodology

@@ -1,10 +1,6 @@
 ---
 name: agent-configuration
 description: Configure AI agents using YAML-based specifications. Use when setting up agent hierarchies, defining tool access, configuring workflows, or establishing agent constraints and behaviors for multi-agent systems.
-allowed-tools:
-  - Bash
-  - Read
-  - str_replace_based_edit_tool
 ---
 
 # Agent Configuration
